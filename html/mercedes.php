@@ -4,7 +4,7 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="../bootstrap-3.3.7/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="../js/jquery.min.js"></script>
     <link href="../css/shared.css" rel="stylesheet" type="text/css">
     <link href="../css/ferrari.css" rel="stylesheet" type="text/css">
@@ -123,7 +123,7 @@
     </div>
 
 
-    <script src="../bootstrap-3.3.7/dist/js/bootstrap.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 </body>
 </html>
