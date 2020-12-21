@@ -1,0 +1,104 @@
+@font-face {
+    font-family: siteRegularFont;
+    src: url(../font/Quicksand-Regular.otf);
+}
+
+@font-face {
+    font-family: siteBoldFont;
+    src: url(../font/Quicksand-Bold.otf);
+}
+
+@font-face {
+    font-family: siteBoldItalicFont;
+    src: url(../font/Quicksand-BoldItalic.otf);
+}
+
+@font-face {
+    font-family: siteItalicFont;
+    src: url(../font/Quicksand-Italic.otf);
+}
+
+@font-face {
+    font-family: siteLightFont;
+    src: url(../font/Quicksand-Light.otf);
+}
+
+@font-face {
+    font-family: siteLightItalicFont;
+    src: url(../font/Quicksand-LightItalic.otf);
+}
+
+@font-face {
+    font-family: siteDashFont;
+    src: url(../font/Quicksand_Dash.otf);
+}
+
+body {
+    font-family: siteRegularFont;
+}
+
+.header {
+    border-bottom: 2px solid red;
+    background: white;
+
+}
+.contact{
+    padding-left: 10px;
+    margin-top:30px;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    border: 1px solid #600024;
+}
+.btn1 {
+    cursor: pointer;
+    background: rgb(20, 13, 116);
+    box-shadow: 0px 1px 5px 0px rgb(181, 29, 0, 0.57);
+    color: white;
+    border: 1px solid black;
+    height: 40px;
+    font-size: 22px;
+    width: 300px;
+    margin-top: 30px;
+    transition: width 0.8s;
+    transition-property: all;
+}
+
+.btn1:hover {
+    background: rgb(248, 34, 0);
+    color:white;
+    transform: scale(1.1);
+    width: 320px;
+    box-shadow: 0px 1px 5px 0px rgb(181, 29, 0, 0.57);
+}
+
+.feedback{
+    padding-left: 10px;
+    margin-top:30px;
+    width: 300px;
+    font-size: 20px;
+    border: 1px solid #600024
+}
+
+.margin {
+    margin-top: 350px;
+}
+.lambo {
+    width: 80%;
+    margin-top: 10px;
+}
+
+.porsche{
+    width: 100%;
+    margin-top: 8px;
+}
+
+.audi{
+    width: 60%;
+    margin-top: 20px;
+}
+
+.mercedes{
+    width: 70%;
+    margin-top: 15px;
+}

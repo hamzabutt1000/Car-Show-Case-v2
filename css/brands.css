@@ -1,0 +1,69 @@
+.content {
+    margin-top: 50px;
+    padding-top: 40px;
+}
+
+
+.custom-img-f {
+    height: 250px;
+    object-fit: cover;
+    transition: 0.5s;
+}
+
+.custom-img-f:hover {
+    transform: scale(1.2);
+}
+
+.custom-img-l {
+    margin-top: 10px;
+    height: 200px;
+    object-fit: cover;
+    transition: 0.5s;
+}
+
+.custom-img-l:hover {
+    transform: scale(1.2);
+}
+
+.custom-img-p {
+    height: 200px;
+    object-fit: cover;
+    transition: 0.5s;
+}
+
+.custom-img-p:hover {
+    transform: scale(1.2);
+}
+
+.custom-img-ad {
+    margin-top: 30px;
+    margin-left:  -44px;
+    height: 150px;
+    object-fit: cover;
+    transition: 0.5s;
+}
+
+.custom-img-ad:hover {
+    transform: scale(1.2);
+}
+
+.custom-img-m {
+    margin-left: -82px;
+    height: 200px;
+    object-fit: cover;
+    transition: 0.5s;
+}
+
+.custom-img-m:hover {
+    transform: scale(1.2);
+}
+
+.custom-img-a {
+    margin-top: 20px;
+    object-fit: cover;
+    transition: 0.5s;
+}
+
+.custom-img-a:hover {
+    transform: scale(1.2);
+}

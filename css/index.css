@@ -1,0 +1,17 @@
+.slider {
+    margin-top: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 612px;
+}
+
+.custom-carousel {
+    height: inherit;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: 612px;
+    object-fit: cover;
+}
